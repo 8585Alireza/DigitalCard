@@ -1,6 +1,6 @@
 /* ====== Custom Font Setup ====== */
 @font-face {
-    font-family: 'YekanBakh';
+    font-family: 'Yekan';
     src: url('Fonts/Yekan.ttf') format('truetype'); /* مسیر صحیح به فونت */
     font-weight: normal;
     font-display: swap; /* برای لود بهتر فونت */
