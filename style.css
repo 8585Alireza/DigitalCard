@@ -495,31 +495,31 @@ font-size: 18px;
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 38px;
     line-height: 1.2;
   }
 
   .categories div {
-    font-size: 10px;
+    font-size: 16px;
     font-weight: 800;
     padding: 6px;
   }
 
   .info-text1 {
     font-size: 20px;
-    letter-spacing: 2.5px;
+    letter-spacing: 1.5px;
   }
 
   .info-text2 {
-    font-size: 16px;
-    letter-spacing: 2.5px;
-    margin-top: 2px;
-    margin-right: 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 3px;
+    margin-right: 23px;
   }
 
   .info-text3 {
-    font-size: 16px;
-    margin-right: 4px;
+    font-size: 15px;
+    margin-right: 20px;
   }
 
   .card-top {
