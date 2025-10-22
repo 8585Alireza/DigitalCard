@@ -1,7 +1,7 @@
 /* ====== Custom Font Setup ====== */
 @font-face {
-    font-family: 'Yekan';
-    src: url('Fonts/Yekan.ttf') format('truetype'); /* مسیر صحیح به فونت */
+    font-family: 'YekanBakh';
+    src: url('Fonts/YekanBakh-Bold.ttf') format('truetype'); /* مسیر صحیح به فونت */
     font-weight: normal;
     font-display: swap; /* برای لود بهتر فونت */
 } 
@@ -9,7 +9,7 @@
 
 /* ====== Apply Font Globally ====== */
 body, html {
-    font-family: 'Yekan', sans-serif; /* fallback به sans-serif */
+    font-family: 'YekanBakh', sans-serif; /* fallback به sans-serif */
 }
 
 
