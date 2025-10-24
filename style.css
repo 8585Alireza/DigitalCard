@@ -1,15 +1,14 @@
-/* ====== Custom Font Setup ====== */
 @font-face {
     font-family: 'YekanBakh';
-    src: url('Fonts/YekanBakh-Bold.ttf') format('truetype'); /* مسیر صحیح به فونت */
+    src: url('/Fonts/YekanBakh-Bold.woff2') format('woff2'),
+         url('/Fonts/YekanBakh-Bold.woff') format('woff'),
+         url('/Fonts/YekanBakh-Bold.ttf') format('truetype');
     font-weight: normal;
-    font-display: swap; /* برای لود بهتر فونت */
-} 
+    font-style: normal;
+}
 
-
-/* ====== Apply Font Globally ====== */
-body, html {
-    font-family: 'YekanBakh', sans-serif; /* fallback به sans-serif */
+body {
+    font-family: 'YekanBakh', sans-serif;
 }
 
 
